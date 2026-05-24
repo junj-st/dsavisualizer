@@ -106,6 +106,11 @@ export default function App() {
           {activeTab === 'datastructures' && dsType === 'queue'       && <StackQueueVisualizer key="queue" mode="queue" />}
         </main>
       </div>
+
+      {/* Credits */}
+      <div className="flex-shrink-0 px-4 py-2" style={{ borderTop: '1px solid #2e2e2e' }}>
+        <span style={{ fontSize: 11, color: '#4a4a4a' }}>made by Jun Jiang</span>
+      </div>
     </div>
   );
 }
