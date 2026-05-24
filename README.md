@@ -13,6 +13,6 @@ open the local URL printed in the terminal (typically `http://localhost:5173`).
 ```bash
 npm run build
 ```
-i made this to help myself study but also because im pretty bad at visualizing and dont want to look up so many youtube videos
+i made this to help myself study but also because im pretty bad at visualizing and dont want to look up so many youtube videos.
 if you want anything added please suggest to me
 made with Vite + React + TypeScript + Tailwind CSS
