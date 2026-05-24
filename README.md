@@ -1,3 +1,5 @@
+quick link: https://dsavisualizer-pearl.vercel.app/
+
 didnt know what to name this, but its a quick tool to help you visualize different data structures and algorithms.
 
 its pretty interactive, and you can play around with everything. 
