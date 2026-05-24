@@ -1,6 +1,10 @@
 didnt know what to name this, but its a quick tool to help you visualize different data structures and algorithms.
+
 its pretty interactive, and you can play around with everything. 
+
 press run and then the play button if you want to watch everything at once or the skip ahead button if you want to go step by step and have everything explained to you
+
+
 if you want to run this project for yourself:
 
 ```bash
